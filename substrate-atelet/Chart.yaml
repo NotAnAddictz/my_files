@@ -1,0 +1,9 @@
+apiVersion: v2
+appVersion: v1.0.1
+description: Agent Substrate atelet, installed separately from the substrate chart.
+home: https://github.com/agent-substrate/substrate
+name: substrate-atelet
+sources:
+- https://github.com/agent-substrate/substrate
+type: application
+version: 1.0.1
