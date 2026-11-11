@@ -1,6 +1,0 @@
-{
-  "release": "1.0.0",
-  "kagent": "ghcr.io/kagent-dev/kagent/golang-adk@sha256:f62e9f2820d3325ca147a5d39802dc3e9c914bee97b3e021bd38f6f5df10e3bf",
-  "claude": "ghcr.io/kagent-dev/kagent/claude-harness@sha256:54629b4e47ad08ab931ae815492d2533f4a3dd6ce007eda06863675afb4f99d2",
-  "codex": "ghcr.io/kagent-dev/kagent/codex-harness@sha256:7da600c1bc342b31bccb281dd9a48c6bdbf33d80a20f89e69128f052858fe9f3"
-}

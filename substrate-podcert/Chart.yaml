@@ -1,6 +1,0 @@
-apiVersion: v2
-appVersion: v1.0.1
-description: Certificate signers for Agent Substrate workloads.
-name: substrate-podcert
-type: application
-version: 1.0.1
